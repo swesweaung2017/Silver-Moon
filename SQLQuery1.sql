@@ -1,0 +1,1 @@
+alter table IncomeItem add constraint pri_IncomeItem primary key (Item_ID);
